@@ -1,1 +1,1 @@
-# battleship-game-in-python
+# Games-in-python
